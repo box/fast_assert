@@ -17,7 +17,7 @@ If either assertion fails, this will throw an InvalidArgumentException.
 To assert that an object is of a particular type:
 
 ```
-Assert::receivedValue()->is_instance_of($obj, "MyDesiredClass");
+Assert::received_value()->is_instance_of($obj, "MyDesiredClass");
 ```
 
 If this assertion fails, this will throw an UnexpectedValueException.
