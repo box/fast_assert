@@ -1,7 +1,7 @@
 #ifndef PHP_FAST_ASSERT_H
 #define PHP_FAST_ASSERT_H
 
-#define PHP_FAST_ASSERT_VERSION "0.1"
+#define PHP_FAST_ASSERT_VERSION "0.1.1"
 #define PHP_FAST_ASSERT_EXTNAME "fast_assert"
 
 #ifdef HAVE_CONFIG_H
